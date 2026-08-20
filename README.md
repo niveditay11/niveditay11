@@ -10,9 +10,8 @@ interfaces people actually want to use.
 
 ### 🔭 What I'm working on
 
-- **Mira Studio** — <!-- one line on what it does / who it's for -->
-- <!-- a current initiative or bet you're making -->
-- <!-- something you're learning or experimenting with -->
+- **Mira Studio** — Building evals for Mira Studio
+
 
 ### 🛠️ Skills & tools
 
@@ -25,10 +24,7 @@ interfaces people actually want to use.
 
 ### 📫 Get in touch
 
-- LinkedIn — <!-- https://linkedin.com/in/your-handle -->
-- Email — <!-- your preferred contact address -->
-- Website / portfolio — <!-- optional -->
-
+- Email — nivedita.yadav@meltwater.com
 ---
 
 <sub>This README lives in a special repo named after my GitHub handle, so it shows up on my profile.</sub>
